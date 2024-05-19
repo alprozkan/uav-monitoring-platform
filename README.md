@@ -8,11 +8,11 @@ This repository contains the code for the UAV Monitoring Platform, which allows 
 
 1. **Navigate to the Backend Directory**:
 
-   ```sh
+  
    cd uav-monitoring-backend
-   Create and Activate Virtual Environment:
+ 
 
-
+Create and Activate Virtual Environment:
 python -m venv venv
 venv\Scripts\activate
 
